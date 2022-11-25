@@ -59,10 +59,11 @@ namespace NerysLab2
             lblInfo.Visible = true;
             
             //information in the data label
-            lblInfo.Text = "My topic is " + lblTopic.Text + ".\n\n" +
+            string msg = "My topic is " + lblTopic.Text + ".\n\n" +
                 "Saint John is a seaport city of the Atlantic Ocean located on the Bay of Fundy in the province of New Brunswick, Canada. " +
                 "Saint John is the oldest incorporated city in Canada, established by royal charter on May 18, 1785.\n" +
                 "This photo is a view of Uptown and the Harbor of Saint John, from the City Sign lookout. One of the most beaultiful places to visit in the city!";
+            lblInfo.Text = msg;
             
             //hide picture box
             picBox.Hide();
@@ -71,7 +72,8 @@ namespace NerysLab2
         private void picBox_Click(object sender, EventArgs e)
         {
             //Display a message box
-            MessageBox.Show("Photo of my bike and the bay!", "Rodrigo Nerys", MessageBoxButtons.OK);
+            string msg = "Photo of my bike, uptown Saint John and the bay of Fundy!";
+            MessageBox.Show (msg, "Rodrigo Nerys", MessageBoxButtons.OK);
         }
 
         private void btnCalc_Click(object sender, EventArgs e)
