@@ -1,0 +1,11 @@
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\bin\Debug\NerysLab2.exe.config
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\bin\Debug\NerysLab2.exe
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\bin\Debug\NerysLab2.pdb
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.csproj.AssemblyReference.cache
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.csproj.SuggestedBindingRedirects.cache
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.Form1.resources
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.Properties.Resources.resources
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.csproj.GenerateResource.cache
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.csproj.CoreCompileInputs.cache
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.exe
+C:\0-OnlineCourse\Projects\NerysLab2\NerysLab2\obj\Debug\NerysLab2.pdb
